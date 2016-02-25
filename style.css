@@ -1,0 +1,44 @@
+body
+	{
+		font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;	
+		background-color: #26A9E0;
+		color: #E2E3E9;
+	    -webkit-touch-callout: none;
+    	-webkit-user-select: none;
+	    -khtml-user-select: none;
+	    -moz-user-select: none;
+	    -ms-user-select: none;
+	    user-select: none;
+
+	}
+	table 
+	{
+		font-family: arial,sans-serif;
+		font-size:11px;
+		color:#333333;
+		border-width: 1px;
+		border-color: #666666;
+		border-collapse: collapse;
+	}
+	table td 
+	{
+		text-align: center;
+		width: 20px;
+		height: 20px;
+		border-width: 1px;
+		padding: 8px;
+		border-style: solid;
+		border-color: #666666;
+		background-color: #26A9E0;
+		color: #E2E3E9;
+
+	}
+	.se 
+	{
+		background-color: #D9DADF;
+		color : #494A4F;
+	}
+	canvas
+	{
+		border: 1px solid white;
+	}
